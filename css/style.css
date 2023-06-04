@@ -1,0 +1,8 @@
+
+header{
+    color: white;
+    background-color: blue;
+}
+.card-reader:hover{
+    background-color: #999;
+}
