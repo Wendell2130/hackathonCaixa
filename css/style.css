@@ -1,8 +1,25 @@
 
 header{
     color: white;
-    background-color: blue;
+    background-color: #0d6efd;
 }
-.card-reader:hover{
-    background-color: #999;
+#corpo{
+    background-color: rgb(211, 213, 216); 
+    
+}
+#divForm,#alertaSucesso{
+    max-width: 500px;
+    margin:auto;
+}
+#descricaoProduto,#rodape{
+    background-color:#0d6efd;
+    color:white;
+}
+#linkPrice:hover,#linkSac:hover{
+    
+    background-color:#0d6efd;
+    color:white;
+}
+#rodape{
+    max-height: 3em;
 }
